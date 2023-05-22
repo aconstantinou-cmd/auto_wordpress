@@ -13,6 +13,13 @@ The script checks for the presence of Docker and Docker-compose before starting 
 sudo ./auto_deploy.sh
 ```
 
+![Running](assets/2023-05-22_15_10_34-Termius_-_work.png)
+
+## Installation success
+
+![Success](assets/2023-05-22_15_09_38-WordPress_Installation.png)
+
+
 ## Security Notice
 
 You should replace "secure_password" in the script with a complex password.
