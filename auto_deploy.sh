@@ -63,7 +63,7 @@ services:
       - LETSENCRYPT_EMAIL=${email}
 
   db:
-    image: mysql:latest
+    image: mysql:5.7
     container_name: ${domain}_db
     environment:
       - MYSQL_DATABASE=wordpress
