@@ -3,7 +3,7 @@ This repository contains a bash script that automates the deployment of a Wordpr
 
 ## Prerequisites
 - Docker: This script requires Docker to run the services. You can install Docker with `sudo apt install docker.io`
-- Docker-Compose: Docker-Compose is used to manage the Docker services.
+- Docker-Compose: Docker-Compose is used to manage the Docker services. You can install Docker with `sudo apt install docker-compose`
 
 The script checks for the presence of Docker and Docker-compose before starting the setup.
 
