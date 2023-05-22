@@ -9,10 +9,9 @@ The script checks for the presence of Docker and Docker-compose before starting 
 
 ## Usage
 
-`
+```bash
 sudo ./auto_deploy.sh
-
-`
+```
 
 ## Security Notice
 
